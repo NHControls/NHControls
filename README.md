@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner-nhc.png" width="100%" alt="Nam Hoang Controls Banner" style="border-radius: 10px;">
+  <img src="./banner_nhc.png" width="100%" alt="Nam Hoang Controls Banner" style="border-radius: 10px;">
 </div>
 <br>
 <div align="center">
