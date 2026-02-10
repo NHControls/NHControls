@@ -16,7 +16,7 @@
 
 ### 👋 Giới thiệu
 
-Tôi là Nam, Founder của **Nam Hoang Controls**. Với **15 năm kinh nghiệm** thực chiến trong lĩnh vực Tự động hóa tòa nhà (BMS) và Kiểm thử & Vận hành (T&C) cho các dự án Tòa nhà cao tầng và Trung tâm dữ liệu (Data Center).
+Tôi là Nam Hoang, Founder của **Nam Hoang Controls**. Với **15 năm kinh nghiệm** thực chiến trong lĩnh vực Tự động hóa tòa nhà (BMS) và Kiểm thử & Vận hành (T&C) cho các dự án Tòa nhà cao tầng và Trung tâm dữ liệu (Data Center).
 
 Tại đây, tôi chia sẻ các tài liệu kỹ thuật, quy trình chuẩn (SOP) và các khóa đào tạo chuyên sâu nhằm nâng cao năng lực cho cộng đồng kỹ sư cơ điện Việt Nam.
 
