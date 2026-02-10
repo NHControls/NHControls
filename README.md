@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./banner-nhc.png" width="100%" alt="Nam Hoang Controls Banner" style="border-radius: 10px;">
+</div>
+<br>
+<div align="center">
 
 <img src="https://github.com/NHControls.png" width="150" style="border-radius: 50%;" alt="Nam Hoang Controls Logo">
 
